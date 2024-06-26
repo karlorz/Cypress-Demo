@@ -12,6 +12,6 @@
   "description": "",
   "devDependencies": {
     "cypress": "^12.17.4",
-    "husky": "^9.0.11"
+    "husky": "^8.0.3"
   }
 }
